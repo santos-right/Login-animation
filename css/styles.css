@@ -206,3 +206,13 @@ body {
 .container.active .toggle-right {
     transform: translateX(200%);
 }
+
+.developer {
+    margin-top: 3rem;
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+
+.developer i {
+    font-size: 1rem;
+}
